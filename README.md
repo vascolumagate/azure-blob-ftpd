@@ -7,6 +7,7 @@ https://stapp.space/cheapest-ftp-on-azure/
 https://alexandrebrisebois.wordpress.com/2015/03/10/scaling-an-ftp-ingestion-service-using-azure-traffic-manager/
 
 
+https://www.freshconsulting.com/building-data-import-tool-azure-webjobs/
 
 
 A simple FTP server template for Azure Storage Blob.
