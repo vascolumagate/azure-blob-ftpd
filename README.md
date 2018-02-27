@@ -1,6 +1,14 @@
 azure-blob-ftpd
 ===============
 
+https://stapp.space/cheapest-ftp-on-azure/
+
+
+https://alexandrebrisebois.wordpress.com/2015/03/10/scaling-an-ftp-ingestion-service-using-azure-traffic-manager/
+
+
+
+
 A simple FTP server template for Azure Storage Blob.
 
 This server is built on top of [`ftpd`](https://www.npmjs.com/package/ftpd) and [`azure-storage-fs`](https://www.npmjs.com/package/azure-storage-fs) modules.
